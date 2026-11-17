@@ -1,0 +1,13 @@
+Royal Treasure ASMR – Update v5.0
+
+Included:
+- Existing v4.0 jewellery drag-and-drop game and home UI retained.
+- Added a Couple Matching mode entry on the home screen.
+- Added Level 01 Royal Dynasty prototype with 12 permanent pair IDs, randomized card order, match progress, 5 lives, wrong-match feedback, retry/continue.
+- Added level01 JSON content plan and separate transparent-PNG asset folder structure.
+
+Build verification:
+- Source files and ZIP archive were inspected/created in this session.
+- Gradle build was NOT run because Gradle is not installed in this environment.
+- The couple screen currently uses emoji placeholders; the 24 final character PNG illustrations are not included yet.
+- Do not treat this as a release-ready APK. Open in Android Studio and run Gradle sync/build before publishing.
